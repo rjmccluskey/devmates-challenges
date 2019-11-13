@@ -89,7 +89,7 @@ test('n == 4', () => {
   expect(spiralize(n)).toEqual(expected);
 });
 
-test('n == 4', () => {
+test('n == 5', () => {
   const n = 5;
   const expected = [
     [ 1, 2, 3, 4, 5],
